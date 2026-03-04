@@ -1,0 +1,15 @@
+name: telegram_2026_frontend
+description: Telegram 2026 Web Frontend Clone
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
